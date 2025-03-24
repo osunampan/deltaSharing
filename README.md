@@ -1,5 +1,7 @@
 # deltaSharing
 
+
+
 1. Databricks - Databricks
   - There are 2 workspaces Workspace_recieve and Worspace_sender
   - Worspace_sender > Catalog > Delta Sharing > Shared by Me > New Recipent > Sharing identifier (get unique identifier from Workspace_recieve delta sharing UI / current metastore())
